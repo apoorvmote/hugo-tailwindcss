@@ -1,7 +1,7 @@
 version: "3"
 
 vars:
-  COMMIT_MESSAGE: changed to master
+  COMMIT_MESSAGE: added prettier
 
 tasks:
   default:
